@@ -1,5 +1,9 @@
 # 🛍 Madhav Store Online Sales Dashboard
 
+## 📷 Dashboard Preview
+![Dashboard Preview]
+(dashboard-preview.png)
+
 An interactive Power BI dashboard built to analyze and track online sales performance across different states in India.
 
 ---
