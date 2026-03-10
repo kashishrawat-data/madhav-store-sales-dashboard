@@ -33,18 +33,18 @@ The objective of this project is to help the business owner monitor sales perfor
 ---
 
 📊 Key Insights:
-• Total sales reached 438K with 37K profit across 5615 orders.
-• Clothing category contributes 63% of total sales.
-• Maharashtra is the top-performing state by revenue
-• Cash on Delivery accounts for ~44% of payments.
+- Total sales reached 438K with 37K profit across 5615 orders.
+- Clothing category contributes 63% of total sales.
+- Maharashtra is the top-performing state by revenue.
+- Cash on Delivery accounts for ~44% of payments.
 
 ---
 
- 📈 Business Recommendations:
-• Promote high-margin products to increase profitability.
-• Encourage digital payments to reduce COD dependency.
-• Target high-performing states with focused marketing strategies.
-
+📈 Business Recommendations:
+- Promote high-margin products to increase profitability.
+- Encourage digital payments to reduce COD dependency.
+- Target high-performing states with focused marketing strategies.
+  
 ---
 
 ## 💡 Skills Demonstrated
