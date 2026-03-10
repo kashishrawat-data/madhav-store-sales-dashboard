@@ -38,12 +38,13 @@ The objective of this project is to help the business owner monitor sales perfor
 • Maharashtra is the top-performing state by revenue
 • Cash on Delivery accounts for ~44% of payments
 
- ---
- 
-📈 Business Recommendations:
+---
+
+ 📈 Business Recommendations:
 • Promote high-margin products to increase profitability
 • Encourage digital payments to reduce COD dependency
 • Target high-performing states with focused marketing strategies
+
 ---
 
 ## 💡 Skills Demonstrated
