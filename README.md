@@ -32,13 +32,18 @@ The objective of this project is to help the business owner monitor sales perfor
 
 ---
 
-## 🔎 Key Insights
+📊 Key Insights:
+• Total sales reached 438K with 37K profit across 5615 orders
+• Clothing category contributes 63% of total sales
+• Maharashtra is the top-performing state by revenue
+• Cash on Delivery accounts for ~44% of payments
 
-- Certain states contribute significantly to total revenue.  
-- Sales peak during mid-year months.  
-- A few product categories generate majority of profit.  
-- Seasonal patterns impact order volume.  
-
+ ---
+ 
+📈 Business Recommendations:
+• Promote high-margin products to increase profitability
+• Encourage digital payments to reduce COD dependency
+• Target high-performing states with focused marketing strategies
 ---
 
 ## 💡 Skills Demonstrated
